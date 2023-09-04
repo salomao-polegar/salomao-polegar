@@ -1,6 +1,6 @@
 ### Hi there :raising_hand:
 - 👋 Hello, my name is Salomão Polegar
-- :+1: I'm currently working as a technician in IT at the Regional Council of Veterinary Medicine of São Paulo/Brazil, Where I work in infrastructure, computer support, and development.
+- :+1: I'm currently working as a technician in IT at the Regional Council of Veterinary Medicine of São Paulo/Brazil, where I work in infrastructure, computer support, and development.
 - :chart_with_downwards_trend: I'm a data science student, I love technology and development. My main interests are back-end, data science, and machine learning/AI.
 - 🤔 I'm exploring digital circuits and electronics too.
 - ❤️ I love Python and Django, I mostly use them in my personal projects, but I have solid knowledge of Java.
