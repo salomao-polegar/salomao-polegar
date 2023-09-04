@@ -14,7 +14,6 @@
 - ❤️ Eu amo Python e Django, a maioria dos meu projetos pessoais são nessas linguagens, mas eu tenho conhecimentos também em Java.
 <br />
 <br />
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="45" height="45"/>
